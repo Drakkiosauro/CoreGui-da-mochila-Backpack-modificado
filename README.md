@@ -1,4 +1,4 @@
-# Slots-de-invetario-costumizado
+# CoreGui da mochila (Backpack) modificado.
 
 Sistema de hotbar customizada para Roblox que substitui o CoreGui padrão por uma interface moderna e funcional.
 
